@@ -5,6 +5,7 @@ Flutter Weather app using OpenWeatherAPI for dynamic data with and Bloc for stat
 ## Getting Started
 
 1. Get your API key from OpenWeatherAPI
-2. Make `.env` file in `utils` folder
-3. Edit your .env file and place your API key after `api_key=`
-4. All Done
+2. Make Folder under `lib` folder
+3. Make a `.env` file in `utils` folder
+4. Edit your .env file and place your API key after `api_key=`
+5. All Done
